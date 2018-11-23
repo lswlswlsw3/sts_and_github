@@ -1,0 +1,5 @@
+node {
+	stage('check out') {
+	
+	}
+}
